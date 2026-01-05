@@ -1,0 +1,7 @@
+pandas
+numpy
+math
+matplotlib
+pyplot
+scipy
+stats
